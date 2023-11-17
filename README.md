@@ -28,7 +28,7 @@ Une autre description concise du projet avec des liens vers le code source et to
 
 ## Contact
 
-- LinkedIn: [Votre Nom sur LinkedIn](lien_vers_profil_linkedin)
-- Twitter: [@VotreNom](lien_vers_profil_twitter)
+- LinkedIn: www.linkedin.com/in/nicolasperrinpaul
+- E-mail: nicolaspaulperrin@gmail.com
 
 N'hésitez pas à explorer mes projets ci-dessus et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet passionnant !
