@@ -1,34 +1,20 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Je suis [Votre Nom], un passionné de développement logiciel avec une expertise dans les domaines suivants :
+## À propos de moi
 
-- Langages de programmation : JavaScript, Python, Java
-- Frameworks : React, Flask
-- Outils : Git, VS Code
+Salut, je suis Nicolas Perrin, un passionné de la programmaton basé à Lyon. Je m'intéresse particulièrement à l'intelligence artificielle et je travaille actuellement sur des projets sur GitHub. Mon objectif est de me professionnaliser dans le domaine de la data.
 
-## Mes Projets
+## Mes Contributions
 
-### [Projet 1 : Nom du Projet](lien_vers_le_projet)
-Description brève du projet et de ses fonctionnalités principales. Vous pouvez également ajouter des captures d'écran ici.
+Je suis particulièrement fier de mes contributions à [projet/contribution 1] où j'ai travaillé sur [brève description]. Cette expérience m'a permis d'apprendre [compétences acquises] et de collaborer avec une équipe exceptionnelle.
 
-### [Projet 2 : Nom du Projet](lien_vers_le_projet)
-Une autre description concise du projet avec des liens vers le code source et toute documentation pertinente.
+En plus de cela, j'ai également contribué à [projet/contribution 2] en apportant [brève description]. Chaque contribution est une opportunité d'apprentissage et de croissance, et je suis toujours ouvert aux retours constructifs.
 
-## Compétences
+## Comment obtenir de l'aide
 
-- Développement web
-- Programmation orientée objet
-- Développement d'API REST
+Si vous avez des questions sur mes projets ou si vous cherchez de l'aide dans les communautés où je suis impliqué, n'hésitez pas à me contacter. Je suis actif sur Instagram, Linkedin et Twitter et je serais ravi de partager mes connaissances et d'apprendre de nouvelles perspectives.
 
-## Badges
+## Restons en contact !
 
-[![Langages : JavaScript](https://img.shields.io/badge/Langages-JavaScript-yellow)](lien_vers_le_badge)
-[![Framework : React](https://img.shields.io/badge/Framework-React-blue)](lien_vers_le_badge)
-[![Outils : Git](https://img.shields.io/badge/Outils-Git-green)](lien_vers_le_badge)
+N'hésitez pas à explorer mes projets ci-dessous et à me suivre pour rester à jour sur mes dernières contributions. Je suis toujours ouvert à de nouvelles collaborations et à de passionnantes discussions. Ensemble, créons quelque chose d'extraordinaire ! 🚀
 
-## Contact
-
-- LinkedIn: www.linkedin.com/in/nicolasperrinpaul
-- E-mail: nicolaspaulperrin@gmail.com
-
-N'hésitez pas à explorer mes projets ci-dessus et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet passionnant !
