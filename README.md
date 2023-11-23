@@ -6,9 +6,9 @@ Salut, je suis Nicolas Perrin, un passionné de la programmaton basé à Lyon. J
 
 ## Mes Contributions
 
-Je suis particulièrement fier de mes contributions à [projet/contribution 1] où j'ai travaillé sur [brève description]. Cette expérience m'a permis d'apprendre [compétences acquises] et de collaborer avec une équipe exceptionnelle.
+Je suis particulièrement fier de mes contributions où j'ai travaillé sur les différents projets. Cette expérience m'a permis d'apprendre les bases et d'avoir les compétences de GitHub.
 
-En plus de cela, j'ai également contribué à [projet/contribution 2] en apportant [brève description]. Chaque contribution est une opportunité d'apprentissage et de croissance, et je suis toujours ouvert aux retours constructifs.
+En plus de cela, j'ai également contribué à des projets scolaire avec mes collègues de travail en apportant l'aide de chacun pour trouver la solution aux différents problèmes. Chaque contribution est une opportunité d'apprentissage et de croissance, et je suis toujours ouvert aux retours constructifs.
 
 ## Comment obtenir de l'aide
 
